@@ -27,7 +27,7 @@ target/
 *.csv
 *.json
 *.hdf5
-!/assets/forecast.png
+!assets/forecast.png
 
 # Ignore VSCode settings (if using VSCode)
 .vscode/
