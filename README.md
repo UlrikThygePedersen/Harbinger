@@ -1,6 +1,6 @@
 <img src="assets/forecast.png" alt="Stock Prediction Image"/>
 
-# Welcome to Harbinger 📈💻
+# Welcome to Harbinger 🔮🧙‍♂️✨
 
 **Harbinger** is a high-performance time series forecasting model built using the **Burn** deep learning framework in **Rust**. This project focuses on predicting stock prices using an LSTM (Long Short-Term Memory) model to capture trends and forecast future values based on historical stock data.
 
