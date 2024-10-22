@@ -23,11 +23,11 @@ target/
 **/__pycache__/
 
 # Ignore dataset and assets folders if they aren't to be committed
-/assets/
+# /assets/
 *.csv
 *.json
 *.hdf5
-!assets/forecast.png
+!assets/*.png
 
 # Ignore VSCode settings (if using VSCode)
 .vscode/
