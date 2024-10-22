@@ -1,0 +1,46 @@
+# Ignore binary files
+/target/
+**/*.rs.bk
+
+# Ignore compiled libraries
+*.o
+*.so
+*.rlib
+*.dylib
+
+# Ignore Cargo-specific files
+Cargo.lock
+target/
+
+# Ignore Rust-specific folders and files
+**/*.rs.bk
+/target/
+**/*.rs.bk
+*.log
+
+# Ignoring Python (if you use Python scripts for any data processing)
+/*.ipynb_checkpoints
+**/__pycache__/
+
+# Ignore dataset and assets folders if they aren't to be committed
+/assets/
+*.csv
+*.json
+*.hdf5
+
+# Ignore VSCode settings (if using VSCode)
+.vscode/
+
+# Ignore logs, temporary files, and system files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignore any virtual environments
+venv/
+.env
+
+# Ignore temporary files
+*.bak
+*.old
