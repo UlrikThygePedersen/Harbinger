@@ -7,7 +7,6 @@ use burn::optim::Adam;
 use burn::nn::{Param, Lstm, Linear};
 use ndarray::{Array, Array2};
 
-// Main function to train and predict using LSTM model
 fn main() {
     // Hyperparameters
     let input_size = 1;
