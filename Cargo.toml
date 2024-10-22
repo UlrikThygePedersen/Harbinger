@@ -1,5 +1,6 @@
 [dependencies]
+csv = "1.1"
+ndarray = "0.15"
 burn = "0.5"
 burn-tensor = "0.5"
 burn-ndarray = "0.5"
-ndarray = "0.15"
