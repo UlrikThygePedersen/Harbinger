@@ -1,0 +1,5 @@
+[dependencies]
+burn = "0.5"
+burn-tensor = "0.5"
+burn-ndarray = "0.5"
+ndarray = "0.15"
