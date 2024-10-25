@@ -2,6 +2,8 @@
 
 # Welcome to Harbinger 🔮🧙‍♂️✨
 
+---
+
 **Harbinger** is a high-performance time series forecasting model built using the [**Burn**](https://burn.dev/) deep learning framework in **Rust**. This project focuses on predicting stock prices using an LSTM (Long Short-Term Memory) model to capture trends and forecast future values based on historical stock data.
 
 This project showcases how advanced AI models can be applied in real-world financial contexts, emphasizing speed, memory safety, and scalability through Rust. It also demonstrates my ability to work with cutting-edge tools and technologies while delivering accurate results for time-sensitive and resource-intensive tasks.
