@@ -38,7 +38,7 @@ The **goal** is to predict the closing stock prices for the next day (or future 
 
 ## Technical Architecture
 
-Harbinger is built on the **Burn framework**, a modular and performant deep learning library in Rust. The architecture leverages LSTM (Long Short-Term Memory) layers to capture temporal dependencies in stock prices and predict future values.
+Harbinger is built on the [**Burn framework**](https://github.com/tracel-ai/burn), a modular and performant deep learning library in Rust. The architecture leverages LSTM (Long Short-Term Memory) layers to capture temporal dependencies in stock prices and predict future values.
 
 ### Key Components:
 1. **LSTM Model**: Processes the sequential stock data, capturing patterns and trends over time.
